@@ -1,4 +1,3 @@
-import { ConnectWallet } from "@thirdweb-dev/react";
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import AchievementsSection from "./components/AchievementsSection";
