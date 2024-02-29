@@ -1,9 +1,3 @@
 {
-  "rules": {
-    "no-console": "off"
-  }
-}
-
-{
   "extends": ["eslint:recommended", "next"]
 }
